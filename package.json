@@ -17,8 +17,7 @@
 		"build": "npm run build --workspace=frontend",
 		"format": "prettier --cache --write .",
 		"lint": "npm run lint --workspace=frontend",
-		"type-check": "npm run type-check --workspaces",
-		"typegen": "npm run typegen --workspace=frontend"
+		"type-check": "npm run type-check --workspaces"
 	},
 	"devDependencies": {
 		"prettier": "^3.7.3"
