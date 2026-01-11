@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/studio/node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
@@ -17,6 +16,7 @@
 # sanity
 /.sanity/
 /dist/
+schema.json
 
 # misc
 .DS_Store
